@@ -1,9 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .bg-caurosal{
     background: #c7edee;
 }
 .bg-footer{
     background-color:#000000;
-    height: 400px;
 }
 .footer-highlight{
     color:#eaecec;
@@ -11,6 +13,13 @@
 .footer-small-text{
     color: rgba(224, 221, 221, 0.829);
 }
-hr{
-    border: 4px solid black;
+.mb-3 input{
+    border: none;
+   
+}
+.mb-3 textarea {
+    border: none;
+}
+.mb-3{
+    border-bottom: 1px solid rgba(22, 21, 21, 0.856);
 }
